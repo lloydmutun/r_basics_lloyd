@@ -17,7 +17,6 @@ View(dat_ti)
 dat.ti <- dat_ti
 str(dat.ti)
 
-
 # clutch size : What variables do you think might affect clutch size? Our 
 # main hypothesis here is that in some way, an outbreak of disease negatively 
 # affected some element of reproductive fitness.
